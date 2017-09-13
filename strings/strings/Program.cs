@@ -6,17 +6,19 @@ namespace strings
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter a word to be reversed.");
-            string input = Console.ReadLine();
-            Console.WriteLine(ReverseIt(input));
-            Console.Read();
-        }
+            Console.WriteLine("Please enter a word or series of words you'd like reversed.");
+            string reversal = Console.ReadLine();
+            //string input = Console.ReadLine();
+            //Console.WriteLine(ReverseIt(input));
+            //Console.Read();
 
-        static string ReverseIt(string input)
-        {
-            char[] arr = input.ToCharArray();
-            Array.Reverse(arr);
-            return new string(arr);
+            string meow = "";
+            for (int i=reversal.Length - 1; i>=0; i--)
+            {
+                meow += reversal[i];
+            }
+            Console.WriteLine(meow);
+            Console.Read();
         }
     }
 }
