@@ -1,0 +1,11 @@
+C:\Users\shami\source\repos\data-structures\Linked_LIsts\Linked_LIsts\bin\Debug\netcoreapp2.0\Linked_LIsts.deps.json
+C:\Users\shami\source\repos\data-structures\Linked_LIsts\Linked_LIsts\bin\Debug\netcoreapp2.0\Linked_LIsts.runtimeconfig.json
+C:\Users\shami\source\repos\data-structures\Linked_LIsts\Linked_LIsts\bin\Debug\netcoreapp2.0\Linked_LIsts.runtimeconfig.dev.json
+C:\Users\shami\source\repos\data-structures\Linked_LIsts\Linked_LIsts\bin\Debug\netcoreapp2.0\Linked_LIsts.dll
+C:\Users\shami\source\repos\data-structures\Linked_LIsts\Linked_LIsts\bin\Debug\netcoreapp2.0\Linked_LIsts.pdb
+C:\Users\shami\source\repos\data-structures\Linked_LIsts\Linked_LIsts\obj\Debug\netcoreapp2.0\Linked_LIsts.csprojResolveAssemblyReference.cache
+C:\Users\shami\source\repos\data-structures\Linked_LIsts\Linked_LIsts\obj\Debug\netcoreapp2.0\Linked_LIsts.csproj.CoreCompileInputs.cache
+C:\Users\shami\source\repos\data-structures\Linked_LIsts\Linked_LIsts\obj\Debug\netcoreapp2.0\Linked_LIsts.AssemblyInfoInputs.cache
+C:\Users\shami\source\repos\data-structures\Linked_LIsts\Linked_LIsts\obj\Debug\netcoreapp2.0\Linked_LIsts.AssemblyInfo.cs
+C:\Users\shami\source\repos\data-structures\Linked_LIsts\Linked_LIsts\obj\Debug\netcoreapp2.0\Linked_LIsts.dll
+C:\Users\shami\source\repos\data-structures\Linked_LIsts\Linked_LIsts\obj\Debug\netcoreapp2.0\Linked_LIsts.pdb
