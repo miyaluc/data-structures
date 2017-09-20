@@ -1,0 +1,11 @@
+C:\Users\shami\source\repos\find_middle\find_middle\bin\Debug\netcoreapp2.0\find_middle.deps.json
+C:\Users\shami\source\repos\find_middle\find_middle\bin\Debug\netcoreapp2.0\find_middle.runtimeconfig.json
+C:\Users\shami\source\repos\find_middle\find_middle\bin\Debug\netcoreapp2.0\find_middle.runtimeconfig.dev.json
+C:\Users\shami\source\repos\find_middle\find_middle\bin\Debug\netcoreapp2.0\find_middle.dll
+C:\Users\shami\source\repos\find_middle\find_middle\bin\Debug\netcoreapp2.0\find_middle.pdb
+C:\Users\shami\source\repos\find_middle\find_middle\obj\Debug\netcoreapp2.0\find_middle.csprojResolveAssemblyReference.cache
+C:\Users\shami\source\repos\find_middle\find_middle\obj\Debug\netcoreapp2.0\find_middle.csproj.CoreCompileInputs.cache
+C:\Users\shami\source\repos\find_middle\find_middle\obj\Debug\netcoreapp2.0\find_middle.AssemblyInfoInputs.cache
+C:\Users\shami\source\repos\find_middle\find_middle\obj\Debug\netcoreapp2.0\find_middle.AssemblyInfo.cs
+C:\Users\shami\source\repos\find_middle\find_middle\obj\Debug\netcoreapp2.0\find_middle.dll
+C:\Users\shami\source\repos\find_middle\find_middle\obj\Debug\netcoreapp2.0\find_middle.pdb
