@@ -4,6 +4,11 @@ using System.Text;
 
 namespace Linked_LIsts
 {
+    //public Node Next
+    //{
+    //    get; set;
+    //}
+
     public class LinkedList
     {
         private Node head;
