@@ -1,0 +1,11 @@
+C:\Users\shami\source\repos\data-structures\nth_element\nth_element\nth_element\bin\Debug\netcoreapp2.0\nth_element.deps.json
+C:\Users\shami\source\repos\data-structures\nth_element\nth_element\nth_element\bin\Debug\netcoreapp2.0\nth_element.runtimeconfig.json
+C:\Users\shami\source\repos\data-structures\nth_element\nth_element\nth_element\bin\Debug\netcoreapp2.0\nth_element.runtimeconfig.dev.json
+C:\Users\shami\source\repos\data-structures\nth_element\nth_element\nth_element\bin\Debug\netcoreapp2.0\nth_element.dll
+C:\Users\shami\source\repos\data-structures\nth_element\nth_element\nth_element\bin\Debug\netcoreapp2.0\nth_element.pdb
+C:\Users\shami\source\repos\data-structures\nth_element\nth_element\nth_element\obj\Debug\netcoreapp2.0\nth_element.csprojResolveAssemblyReference.cache
+C:\Users\shami\source\repos\data-structures\nth_element\nth_element\nth_element\obj\Debug\netcoreapp2.0\nth_element.csproj.CoreCompileInputs.cache
+C:\Users\shami\source\repos\data-structures\nth_element\nth_element\nth_element\obj\Debug\netcoreapp2.0\nth_element.AssemblyInfoInputs.cache
+C:\Users\shami\source\repos\data-structures\nth_element\nth_element\nth_element\obj\Debug\netcoreapp2.0\nth_element.AssemblyInfo.cs
+C:\Users\shami\source\repos\data-structures\nth_element\nth_element\nth_element\obj\Debug\netcoreapp2.0\nth_element.dll
+C:\Users\shami\source\repos\data-structures\nth_element\nth_element\nth_element\obj\Debug\netcoreapp2.0\nth_element.pdb
