@@ -1,3 +1,6 @@
+# data-structures 9/21
+We have had trouble getting this one working. We came across a lot of problems.
+
 # data-structures 9/19
 We got off to a much smoother start in this lab.
 We first reviewed the code for the singly linked list code challenge.
