@@ -1,0 +1,11 @@
+C:\Users\shami\Source\Repos\data-structures\single_node_deletion\single_node_deletion\single_node_deletion\bin\Debug\netcoreapp2.0\single_node_deletion.deps.json
+C:\Users\shami\Source\Repos\data-structures\single_node_deletion\single_node_deletion\single_node_deletion\bin\Debug\netcoreapp2.0\single_node_deletion.runtimeconfig.json
+C:\Users\shami\Source\Repos\data-structures\single_node_deletion\single_node_deletion\single_node_deletion\bin\Debug\netcoreapp2.0\single_node_deletion.runtimeconfig.dev.json
+C:\Users\shami\Source\Repos\data-structures\single_node_deletion\single_node_deletion\single_node_deletion\bin\Debug\netcoreapp2.0\single_node_deletion.dll
+C:\Users\shami\Source\Repos\data-structures\single_node_deletion\single_node_deletion\single_node_deletion\bin\Debug\netcoreapp2.0\single_node_deletion.pdb
+C:\Users\shami\Source\Repos\data-structures\single_node_deletion\single_node_deletion\single_node_deletion\obj\Debug\netcoreapp2.0\single_node_deletion.csprojResolveAssemblyReference.cache
+C:\Users\shami\Source\Repos\data-structures\single_node_deletion\single_node_deletion\single_node_deletion\obj\Debug\netcoreapp2.0\single_node_deletion.csproj.CoreCompileInputs.cache
+C:\Users\shami\Source\Repos\data-structures\single_node_deletion\single_node_deletion\single_node_deletion\obj\Debug\netcoreapp2.0\single_node_deletion.AssemblyInfoInputs.cache
+C:\Users\shami\Source\Repos\data-structures\single_node_deletion\single_node_deletion\single_node_deletion\obj\Debug\netcoreapp2.0\single_node_deletion.AssemblyInfo.cs
+C:\Users\shami\Source\Repos\data-structures\single_node_deletion\single_node_deletion\single_node_deletion\obj\Debug\netcoreapp2.0\single_node_deletion.dll
+C:\Users\shami\Source\Repos\data-structures\single_node_deletion\single_node_deletion\single_node_deletion\obj\Debug\netcoreapp2.0\single_node_deletion.pdb
