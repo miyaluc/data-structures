@@ -20,8 +20,8 @@ namespace single_node_deletion
             newList.Add(9);
 
             newList.PrintNodes();
-            newList.SinglyDeleteNode(3);
-            newList.PrintNodes();
+            newList.SinglyDeleteNode(4);
+            //newList.PrintNodes();
             Console.Read();
         }
 

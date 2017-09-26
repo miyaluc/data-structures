@@ -37,10 +37,11 @@ namespace single_node_deletion
             while (curr.Next != null)
             {
                 curr = curr.Next;
-                Console.WriteLine("curr.Data");
+                Console.WriteLine(curr.Data);
                 Console.WriteLine("");
             }
             Console.Write("->->-> Tail");
+            Console.WriteLine("");
         }
         public void PrintMiddle()
         {
@@ -51,7 +52,7 @@ namespace single_node_deletion
             while (start < midCount)
             {
                 curr = curr.Next;
-                Console.Write(curr.Data);
+                Console.WriteLine(curr.Data);
                 Console.Write("->");
                 start++;
             }
@@ -59,26 +60,28 @@ namespace single_node_deletion
         }
         public void SinglyDeleteNode(int input)
         {
-            int index = input - 1;
-            Console.Write("Head ->");
-            //walker
-            Node curr2 = head;
+            int index = input;
+            int innerCount = 0;
             //runner
             Node curr = head;
-            int innerCount = 0;
+            //walker
+            Node curr2 = head;
+            Console.Write("Head ->");
 
             while (curr.Next != null)
             {
                 curr = curr.Next;
                 innerCount++;
             }
-            for (int i = 0; i < count - index; i++)
-            {
-                curr2 = curr.Next;
-                Console.WriteLine(curr2.Data);
-                Console.Write("->");
-            }
-            curr2 = curr2.Next;
+
+            //curr2 = curr2.Next;
+
+            //for (int i = 0; i < innerCount - index; i++)
+            //{
+            //    curr2 = curr2.Next.Next;
+            //    Console.WriteLine(curr2.Data);
+            //    Console.Write("->");
+            //}
 
             for (int i = 0; i < index - 1; i++)
             {
@@ -86,7 +89,6 @@ namespace single_node_deletion
                 Console.WriteLine(curr2.Data);
                 Console.Write("->");
             }
-            curr2.Next = null;
 
             Console.WriteLine("This is the new end.");
         }
