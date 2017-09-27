@@ -23,7 +23,6 @@ namespace stacks_queues
             Node temp = Head;
             Head = new Node(Data);
             Head.Next = temp;
-            PrintNodes();
         }
         public int Pop()
         {
@@ -41,15 +40,21 @@ namespace stacks_queues
         //my print method needs work
         public void PrintNodes()
         {
-            Console.Write("Head ->->->");
+            Console.WriteLine("A stack.");
+            Console.WriteLine("--------------------------");
+            Console.WriteLine("");
+            Console.WriteLine("<-<-Last one out!");
+            Console.WriteLine("");
             Node curr = Head;
             while (curr.Next != null)
             {
                 curr = curr.Next;
-                Console.WriteLine("curr.Data");
+                Console.WriteLine(curr.Data);
                 Console.WriteLine("");
             }
-            Console.Write("->->-> Tail");
+            Console.Write("<-<-First one in!");
+            Console.WriteLine("");
+            Console.WriteLine("");
         }
     }
 }

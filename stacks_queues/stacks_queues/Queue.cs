@@ -43,15 +43,21 @@ namespace stacks_queues
         //my print method needs work
         public void PrintNodes()
         {
-            Console.Write("Head ->->->");
+            Console.WriteLine("A queue.");
+            Console.WriteLine("--------------------------");
+            Console.WriteLine("");
+            Console.WriteLine("This is the beginning of the line. ->->");
+            Console.WriteLine("");
             Node curr = Head;
             while (curr.Next != null)
             {
                 curr = curr.Next;
-                Console.WriteLine("curr.Data");
+                Console.WriteLine(curr.Data);
                 Console.WriteLine("");
             }
-            Console.Write("->->-> Tail");
+            Console.Write("<-<- This is the end of the line.");
+            Console.WriteLine("");
+            Console.WriteLine("");
         }
     }
 }

@@ -8,17 +8,27 @@ namespace stacks_queues
         {
             Console.WriteLine("Hello World!");
 
-            Stack money = new Stack(10);
-            money.Push(3);
+            Stack money = new Stack(24);
+            money.Push(6);
+            money.Push(4);
             money.Push(1);
-            money.Push(2);
+
             money.PrintNodes();
 
-            Queue people = new Queue(2);
-            people.Enqueue(1);
-            people.Enqueue(3);
+            money.Pop();
+            money.PrintNodes();
+
+
+            Queue people = new Queue(24);
+            people.Enqueue(6);
             people.Enqueue(4);
+            people.Enqueue(1);
+
             people.PrintNodes();
+
+            people.Dequeue();
+            people.PrintNodes();
+
 
             Console.Read();
         }
