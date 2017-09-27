@@ -1,9 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\single_node_deletion",
+    "\\nth_element",
+    "\\nth_element\\nth_element",
+    "\\nth_element\\nth_element\\nth_element",
+    "\\single_node_deletion\\single_node_deletion",
+    "\\single_node_deletion\\single_node_deletion\\single_node_deletion",
     "\\strings"
   ],
-  "SelectedNode": "\\single_node_deletion",
+  "SelectedNode": "\\stacks&queues",
   "PreviewInSolutionExplorer": false
 }
