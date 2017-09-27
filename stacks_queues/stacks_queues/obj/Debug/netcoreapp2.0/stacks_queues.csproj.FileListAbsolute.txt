@@ -1,0 +1,11 @@
+C:\Users\shami\Source\Repos\data-structures\stacks_queues\stacks_queues\bin\Debug\netcoreapp2.0\stacks_queues.deps.json
+C:\Users\shami\Source\Repos\data-structures\stacks_queues\stacks_queues\bin\Debug\netcoreapp2.0\stacks_queues.runtimeconfig.json
+C:\Users\shami\Source\Repos\data-structures\stacks_queues\stacks_queues\bin\Debug\netcoreapp2.0\stacks_queues.runtimeconfig.dev.json
+C:\Users\shami\Source\Repos\data-structures\stacks_queues\stacks_queues\bin\Debug\netcoreapp2.0\stacks_queues.dll
+C:\Users\shami\Source\Repos\data-structures\stacks_queues\stacks_queues\bin\Debug\netcoreapp2.0\stacks_queues.pdb
+C:\Users\shami\Source\Repos\data-structures\stacks_queues\stacks_queues\obj\Debug\netcoreapp2.0\stacks_queues.csprojResolveAssemblyReference.cache
+C:\Users\shami\Source\Repos\data-structures\stacks_queues\stacks_queues\obj\Debug\netcoreapp2.0\stacks_queues.csproj.CoreCompileInputs.cache
+C:\Users\shami\Source\Repos\data-structures\stacks_queues\stacks_queues\obj\Debug\netcoreapp2.0\stacks_queues.AssemblyInfoInputs.cache
+C:\Users\shami\Source\Repos\data-structures\stacks_queues\stacks_queues\obj\Debug\netcoreapp2.0\stacks_queues.AssemblyInfo.cs
+C:\Users\shami\Source\Repos\data-structures\stacks_queues\stacks_queues\obj\Debug\netcoreapp2.0\stacks_queues.dll
+C:\Users\shami\Source\Repos\data-structures\stacks_queues\stacks_queues\obj\Debug\netcoreapp2.0\stacks_queues.pdb
