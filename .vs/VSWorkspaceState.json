@@ -4,10 +4,9 @@
     "\\nth_element",
     "\\nth_element\\nth_element",
     "\\nth_element\\nth_element\\nth_element",
-    "\\single_node_deletion\\single_node_deletion",
-    "\\single_node_deletion\\single_node_deletion\\single_node_deletion",
+    "\\stacks_queues",
     "\\strings"
   ],
-  "SelectedNode": "\\stacks&queues",
+  "SelectedNode": "\\palindrom_queue_test",
   "PreviewInSolutionExplorer": false
 }
