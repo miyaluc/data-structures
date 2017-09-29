@@ -1,3 +1,11 @@
+
+#two stacks and a queue 9/28
+My partner and I took our time laying out a plan and implementing it. In the end, we were still stuck on how to get things working. I'm submitting what I have.
+
+# doubly-linked list palindrome test 9/27
+I am still having a very difficult time understanding these code challenges. I'm having trouble understanding their relevance and feel that I will greatly benefit from further study of 
+the subject. I'm considering buying a copy of Cracking the Code. "Feeling it out" isn't how I'm comfortable learning.
+
 # data-structures 9/21
 We have had trouble getting this one working. We came across a lot of problems.
 

@@ -1,0 +1,11 @@
+C:\Users\shami\Source\Repos\data-structures\palindrom_queue_test\palindrome_test\palindrome_test\bin\Debug\netcoreapp2.0\palindrome_test.deps.json
+C:\Users\shami\Source\Repos\data-structures\palindrom_queue_test\palindrome_test\palindrome_test\bin\Debug\netcoreapp2.0\palindrome_test.runtimeconfig.json
+C:\Users\shami\Source\Repos\data-structures\palindrom_queue_test\palindrome_test\palindrome_test\bin\Debug\netcoreapp2.0\palindrome_test.runtimeconfig.dev.json
+C:\Users\shami\Source\Repos\data-structures\palindrom_queue_test\palindrome_test\palindrome_test\bin\Debug\netcoreapp2.0\palindrome_test.dll
+C:\Users\shami\Source\Repos\data-structures\palindrom_queue_test\palindrome_test\palindrome_test\bin\Debug\netcoreapp2.0\palindrome_test.pdb
+C:\Users\shami\Source\Repos\data-structures\palindrom_queue_test\palindrome_test\palindrome_test\obj\Debug\netcoreapp2.0\palindrome_test.csprojResolveAssemblyReference.cache
+C:\Users\shami\Source\Repos\data-structures\palindrom_queue_test\palindrome_test\palindrome_test\obj\Debug\netcoreapp2.0\palindrome_test.csproj.CoreCompileInputs.cache
+C:\Users\shami\Source\Repos\data-structures\palindrom_queue_test\palindrome_test\palindrome_test\obj\Debug\netcoreapp2.0\palindrome_test.AssemblyInfoInputs.cache
+C:\Users\shami\Source\Repos\data-structures\palindrom_queue_test\palindrome_test\palindrome_test\obj\Debug\netcoreapp2.0\palindrome_test.AssemblyInfo.cs
+C:\Users\shami\Source\Repos\data-structures\palindrom_queue_test\palindrome_test\palindrome_test\obj\Debug\netcoreapp2.0\palindrome_test.dll
+C:\Users\shami\Source\Repos\data-structures\palindrom_queue_test\palindrome_test\palindrome_test\obj\Debug\netcoreapp2.0\palindrome_test.pdb
