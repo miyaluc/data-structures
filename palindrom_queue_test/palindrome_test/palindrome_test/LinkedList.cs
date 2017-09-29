@@ -19,18 +19,20 @@ namespace palindrome_test
             {
                 throw new Exception("Check your entry. Letters only.");
             }
-            runnerForward = Head;
-            runnerBack = Tail;
-            while(runnerForward.value == runnerBack.value)
-            {
-                runnerForward = runnerForward.Next;
-                runnerBack = runnerBack.Previous;
+            Node Forward = Head;
+            Node Backward = Tail;
 
-                if(runnerForward.Next == runnerBack || runnerForward == runnerBack.Previous)
+            while(Forward.Data == Backward.Data)
+            {
+                Forward = Forward.Next;
+                Backward = Backward.Previous;
+
+                if(Forward.Next == Backward || Forward.Next == Backward.Previous)
                 {
                     return true;
                 }
             }
+            return false;
         }
         
     }
