@@ -8,10 +8,21 @@ namespace palindrome_test
     {
         Node Head;
         Node Tail;
+        public Node curr;
+        public int count = 0;
+        public int midCount;
 
-        void AddChar(char letter)
+        public void AddChar(char letter)
         {
-
+            Node newNode = new Node(letter);
+            newNode.Data = letter;
+            curr.Next = newNode;
+            curr = newNode;
+            count++;
+            if (count % 2 == 1)
+            {
+                midCount++;
+            }
         }
         public bool IsPalindrome()
         {
