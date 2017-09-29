@@ -1,12 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\nth_element",
-    "\\nth_element\\nth_element",
-    "\\nth_element\\nth_element\\nth_element",
     "\\stacks_queues",
     "\\strings"
   ],
-  "SelectedNode": "\\palindrom_queue_test",
+  "SelectedNode": "\\queue_from_two_stacks",
   "PreviewInSolutionExplorer": false
 }
