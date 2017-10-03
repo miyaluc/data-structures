@@ -1,0 +1,11 @@
+C:\Users\shami\source\repos\data-structures\binary_trees\binary_trees\binary_trees\bin\Debug\netcoreapp2.0\binary_trees.deps.json
+C:\Users\shami\source\repos\data-structures\binary_trees\binary_trees\binary_trees\bin\Debug\netcoreapp2.0\binary_trees.runtimeconfig.json
+C:\Users\shami\source\repos\data-structures\binary_trees\binary_trees\binary_trees\bin\Debug\netcoreapp2.0\binary_trees.runtimeconfig.dev.json
+C:\Users\shami\source\repos\data-structures\binary_trees\binary_trees\binary_trees\bin\Debug\netcoreapp2.0\binary_trees.dll
+C:\Users\shami\source\repos\data-structures\binary_trees\binary_trees\binary_trees\bin\Debug\netcoreapp2.0\binary_trees.pdb
+C:\Users\shami\source\repos\data-structures\binary_trees\binary_trees\binary_trees\obj\Debug\netcoreapp2.0\binary_trees.csprojResolveAssemblyReference.cache
+C:\Users\shami\source\repos\data-structures\binary_trees\binary_trees\binary_trees\obj\Debug\netcoreapp2.0\binary_trees.csproj.CoreCompileInputs.cache
+C:\Users\shami\source\repos\data-structures\binary_trees\binary_trees\binary_trees\obj\Debug\netcoreapp2.0\binary_trees.AssemblyInfoInputs.cache
+C:\Users\shami\source\repos\data-structures\binary_trees\binary_trees\binary_trees\obj\Debug\netcoreapp2.0\binary_trees.AssemblyInfo.cs
+C:\Users\shami\source\repos\data-structures\binary_trees\binary_trees\binary_trees\obj\Debug\netcoreapp2.0\binary_trees.dll
+C:\Users\shami\source\repos\data-structures\binary_trees\binary_trees\binary_trees\obj\Debug\netcoreapp2.0\binary_trees.pdb
