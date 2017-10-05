@@ -1,7 +1,10 @@
 
+#in-order traversal and post-order traversal 10/4
+I had trouble getting my tree to print in a different order. I continue to struggle with these data structure assignments. I understand that we pretty much only have to adjust the position of
+the Console.WriteLine but I can't seem to get this working.
+
 #preordered traversal of binary tree 10/3
 This assignment took an hour to complete. We benefited from the help of our TA, Nathan, and learned the differences between pre-order, in-order, and post-order.
-
 
 #two stacks and a queue 9/28
 My partner and I took our time laying out a plan and implementing it. In the end, we were still stuck on how to get things working. I'm submitting what I have.
