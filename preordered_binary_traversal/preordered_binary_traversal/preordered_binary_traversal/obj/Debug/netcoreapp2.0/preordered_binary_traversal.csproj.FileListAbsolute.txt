@@ -1,0 +1,11 @@
+C:\Users\shami\source\repos\data-structures\preordered_binary_traversal\preordered_binary_traversal\preordered_binary_traversal\bin\Debug\netcoreapp2.0\preordered_binary_traversal.deps.json
+C:\Users\shami\source\repos\data-structures\preordered_binary_traversal\preordered_binary_traversal\preordered_binary_traversal\bin\Debug\netcoreapp2.0\preordered_binary_traversal.runtimeconfig.json
+C:\Users\shami\source\repos\data-structures\preordered_binary_traversal\preordered_binary_traversal\preordered_binary_traversal\bin\Debug\netcoreapp2.0\preordered_binary_traversal.runtimeconfig.dev.json
+C:\Users\shami\source\repos\data-structures\preordered_binary_traversal\preordered_binary_traversal\preordered_binary_traversal\bin\Debug\netcoreapp2.0\preordered_binary_traversal.dll
+C:\Users\shami\source\repos\data-structures\preordered_binary_traversal\preordered_binary_traversal\preordered_binary_traversal\bin\Debug\netcoreapp2.0\preordered_binary_traversal.pdb
+C:\Users\shami\source\repos\data-structures\preordered_binary_traversal\preordered_binary_traversal\preordered_binary_traversal\obj\Debug\netcoreapp2.0\preordered_binary_traversal.csprojResolveAssemblyReference.cache
+C:\Users\shami\source\repos\data-structures\preordered_binary_traversal\preordered_binary_traversal\preordered_binary_traversal\obj\Debug\netcoreapp2.0\preordered_binary_traversal.csproj.CoreCompileInputs.cache
+C:\Users\shami\source\repos\data-structures\preordered_binary_traversal\preordered_binary_traversal\preordered_binary_traversal\obj\Debug\netcoreapp2.0\preordered_binary_traversal.AssemblyInfoInputs.cache
+C:\Users\shami\source\repos\data-structures\preordered_binary_traversal\preordered_binary_traversal\preordered_binary_traversal\obj\Debug\netcoreapp2.0\preordered_binary_traversal.AssemblyInfo.cs
+C:\Users\shami\source\repos\data-structures\preordered_binary_traversal\preordered_binary_traversal\preordered_binary_traversal\obj\Debug\netcoreapp2.0\preordered_binary_traversal.dll
+C:\Users\shami\source\repos\data-structures\preordered_binary_traversal\preordered_binary_traversal\preordered_binary_traversal\obj\Debug\netcoreapp2.0\preordered_binary_traversal.pdb

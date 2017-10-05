@@ -1,3 +1,18 @@
+
+#in-order traversal and post-order traversal 10/4
+I had trouble getting my tree to print in a different order. I continue to struggle with these data structure assignments. I understand that we pretty much only have to adjust the position of
+the Console.WriteLine but I can't seem to get this working.
+
+#preordered traversal of binary tree 10/3
+This assignment took an hour to complete. We benefited from the help of our TA, Nathan, and learned the differences between pre-order, in-order, and post-order.
+
+#two stacks and a queue 9/28
+My partner and I took our time laying out a plan and implementing it. In the end, we were still stuck on how to get things working. I'm submitting what I have.
+
+# doubly-linked list palindrome test 9/27
+I am still having a very difficult time understanding these code challenges. I'm having trouble understanding their relevance and feel that I will greatly benefit from further study of 
+the subject. I'm considering buying a copy of Cracking the Code. "Feeling it out" isn't how I'm comfortable learning.
+
 # data-structures 9/21
 We have had trouble getting this one working. We came across a lot of problems.
 

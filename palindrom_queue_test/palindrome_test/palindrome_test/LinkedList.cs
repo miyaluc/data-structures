@@ -8,10 +8,21 @@ namespace palindrome_test
     {
         Node Head;
         Node Tail;
+        public Node curr;
+        public int count = 0;
+        public int midCount;
 
-        void AddChar(char letter)
+        public void AddChar(char letter)
         {
-
+            Node newNode = new Node(letter);
+            newNode.Data = letter;
+            curr.Next = newNode;
+            curr = newNode;
+            count++;
+            if (count % 2 == 1)
+            {
+                midCount++;
+            }
         }
         public bool IsPalindrome()
         {
@@ -19,18 +30,20 @@ namespace palindrome_test
             {
                 throw new Exception("Check your entry. Letters only.");
             }
-            runnerForward = Head;
-            runnerBack = Tail;
-            while(runnerForward.value == runnerBack.value)
-            {
-                runnerForward = runnerForward.Next;
-                runnerBack = runnerBack.Previous;
+            Node Forward = Head;
+            Node Backward = Tail;
 
-                if(runnerForward.Next == runnerBack || runnerForward == runnerBack.Previous)
+            while(Forward.Data == Backward.Data)
+            {
+                Forward = Forward.Next;
+                Backward = Backward.Previous;
+
+                if(Forward.Next == Backward || Forward.Next == Backward.Previous)
                 {
                     return true;
                 }
             }
+            return false;
         }
         
     }

@@ -1,12 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\nth_element",
-    "\\nth_element\\nth_element",
-    "\\nth_element\\nth_element\\nth_element",
+    "\\postorder_binary_traversal",
     "\\stacks_queues",
     "\\strings"
   ],
-  "SelectedNode": "\\palindrom_queue_test",
+  "SelectedNode": "\\postorder_binary_traversal",
   "PreviewInSolutionExplorer": false
 }

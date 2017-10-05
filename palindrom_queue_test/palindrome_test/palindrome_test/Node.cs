@@ -6,7 +6,7 @@ namespace palindrome_test
 {
     class Node
     {
-        public int Data
+        public char Data
         {
             get; set;
         }
@@ -18,7 +18,7 @@ namespace palindrome_test
         {
             get; set;
         }
-        public Node(int data)
+        public Node(char data)
         {
             Data = data;
         }
