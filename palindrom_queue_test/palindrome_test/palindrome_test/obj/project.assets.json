@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\shami\\Source\\Repos\\data-structures\\palindrom_queue_test\\palindrome_test\\palindrome_test\\palindrome_test.csproj",
+      "projectUniqueName": "C:\\Users\\shami\\source\\repos\\data-structures\\palindrom_queue_test\\palindrome_test\\palindrome_test\\palindrome_test.csproj",
       "projectName": "palindrome_test",
-      "projectPath": "C:\\Users\\shami\\Source\\Repos\\data-structures\\palindrom_queue_test\\palindrome_test\\palindrome_test\\palindrome_test.csproj",
+      "projectPath": "C:\\Users\\shami\\source\\repos\\data-structures\\palindrom_queue_test\\palindrome_test\\palindrome_test\\palindrome_test.csproj",
       "packagesPath": "C:\\Users\\shami\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shami\\Source\\Repos\\data-structures\\palindrom_queue_test\\palindrome_test\\palindrome_test\\obj\\",
+      "outputPath": "C:\\Users\\shami\\source\\repos\\data-structures\\palindrom_queue_test\\palindrome_test\\palindrome_test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

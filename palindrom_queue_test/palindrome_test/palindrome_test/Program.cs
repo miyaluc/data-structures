@@ -9,12 +9,21 @@ namespace palindrome_test
             Console.WriteLine("Hello World!");
 
             LinkedList test = new LinkedList();
-            //attempted to add characters to my linked list but this is not working
-            //test.AddChar();
-            //test.AddChar();
+            string word = "tacocat";
 
+            test.Converter(word);
 
-            
+            test.Print();
+            Console.WriteLine($"\n {test.Check()}");
+
+            LinkedList test2 = new LinkedList();
+            string word2 = "hello";
+
+            test2.Converter(word2);
+            Console.WriteLine();
+            test2.Print();
+            Console.WriteLine($"\n {test2.Check()}");
+
             Console.Read();
         }
     }

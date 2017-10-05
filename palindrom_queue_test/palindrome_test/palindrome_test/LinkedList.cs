@@ -8,43 +8,71 @@ namespace palindrome_test
     {
         Node Head;
         Node Tail;
-        public Node curr;
-        public int count = 0;
-        public int midCount;
 
-        public void AddChar(char letter)
+        public LinkedList()
         {
-            Node newNode = new Node(letter);
-            newNode.Data = letter;
-            curr.Next = newNode;
-            curr = newNode;
-            count++;
-            if (count % 2 == 1)
-            {
-                midCount++;
-            }
+            Head = new Node("Head");
+            Tail = new Node("Tail");
+            Head.Next = Tail;
+            Tail.Prev = Head;
         }
-        public bool IsPalindrome()
+
+        public void Add(object data)
         {
-            if(Head == null)
-            {
-                throw new Exception("Check your entry. Letters only.");
-            }
+            Node newNode = new Node(data);
+            newNode.Prev = Tail;
+
+            newNode.Prev = Tail.Prev;
+            Tail.Prev.Next = newNode;
+            Tail.Prev = newNode;
+            newNode.Next = Tail;
+        }
+
+        public string Check()
+        {
             Node Forward = Head;
-            Node Backward = Tail;
-
-            while(Forward.Data == Backward.Data)
+            Node Back = Tail;
+            string answer = "false";
+            while (Forward.Next.Data.ToString() == Back.Prev.Data.ToString())
             {
-                Forward = Forward.Next;
-                Backward = Backward.Previous;
-
-                if(Forward.Next == Backward || Forward.Next == Backward.Previous)
+                if (Forward.Next.Data.ToString() != Back.Prev.Data.ToString())
                 {
-                    return true;
+                    answer = "false";
+                    break;
                 }
+                if (Forward.Next == Back.Prev && Forward.Next.Data.ToString() == Back.Prev.Data.ToString())
+                {
+                    answer = "true";
+                    break;
+                }
+                Forward = Forward.Next;
+                Back = Back.Prev;
             }
-            return false;
+            return answer;
         }
-        
+
+        public void Converter(string thing)
+        {
+            char[] thing2 = thing.ToCharArray();
+            foreach (char n in thing2)
+            {
+                this.Add(n);
+            }
+
+        }
+
+        public void Print()
+        {
+            Node curr = Head;
+            while (curr.Next != null)
+            {
+                Console.Write("->");
+                Console.Write(curr.Data);
+                curr = curr.Next;
+            }
+            Console.Write("-> Tail");
+        }
     }
+        
 }
+

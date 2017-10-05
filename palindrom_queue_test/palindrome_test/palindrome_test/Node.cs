@@ -6,11 +6,7 @@ namespace palindrome_test
 {
     class Node
     {
-        public char Data
-        {
-            get; set;
-        }
-        public Node Previous
+        public object Data
         {
             get; set;
         }
@@ -18,9 +14,16 @@ namespace palindrome_test
         {
             get; set;
         }
-        public Node(char data)
+        public Node Prev
+        {
+            get; set;
+        }
+
+        public Node(object data)
         {
             Data = data;
+            Next = null;
+            Prev = null;
         }
     }
 }
