@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\postorder_binary_traversal",
     "\\stacks_queues",
     "\\strings"
   ],
-  "SelectedNode": "\\preordered_binary_traversal",
+  "SelectedNode": "\\inorder_binary_traversal",
   "PreviewInSolutionExplorer": false
 }
