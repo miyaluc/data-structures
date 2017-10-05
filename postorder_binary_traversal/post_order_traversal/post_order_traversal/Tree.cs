@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace in_order_traversal
+namespace post_order_traversal
 {
     class Tree
     {
@@ -10,9 +10,10 @@ namespace in_order_traversal
         {
             get; set;
         }
+
         public object Add(object data)
         {
-            if(Root == null)
+            if (Root == null)
             {
                 Root = new Node(data);
                 return Root.Value;
@@ -25,14 +26,17 @@ namespace in_order_traversal
         }
         public void Traverse(Node node)
         {
+            if (node.Right != null)
+            {
+                Traverse(node.Right);
+            }
             if (node.Left != null)
             {
                 Traverse(node.Left);
-                Console.WriteLine(node.Value);
             }
-            if (node.Right != null)
-            {
-                Traverse(node.Right)
-            }
+            Console.WriteLine(node.Value);
         }
-}
+
+      }
+ }
+

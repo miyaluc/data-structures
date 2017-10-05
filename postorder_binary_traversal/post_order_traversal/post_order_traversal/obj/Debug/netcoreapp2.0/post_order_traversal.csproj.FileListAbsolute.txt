@@ -1,0 +1,11 @@
+C:\Users\shami\source\repos\data-structures\postorder_binary_traversal\post_order_traversal\post_order_traversal\bin\Debug\netcoreapp2.0\post_order_traversal.deps.json
+C:\Users\shami\source\repos\data-structures\postorder_binary_traversal\post_order_traversal\post_order_traversal\bin\Debug\netcoreapp2.0\post_order_traversal.runtimeconfig.json
+C:\Users\shami\source\repos\data-structures\postorder_binary_traversal\post_order_traversal\post_order_traversal\bin\Debug\netcoreapp2.0\post_order_traversal.runtimeconfig.dev.json
+C:\Users\shami\source\repos\data-structures\postorder_binary_traversal\post_order_traversal\post_order_traversal\bin\Debug\netcoreapp2.0\post_order_traversal.dll
+C:\Users\shami\source\repos\data-structures\postorder_binary_traversal\post_order_traversal\post_order_traversal\bin\Debug\netcoreapp2.0\post_order_traversal.pdb
+C:\Users\shami\source\repos\data-structures\postorder_binary_traversal\post_order_traversal\post_order_traversal\obj\Debug\netcoreapp2.0\post_order_traversal.csprojResolveAssemblyReference.cache
+C:\Users\shami\source\repos\data-structures\postorder_binary_traversal\post_order_traversal\post_order_traversal\obj\Debug\netcoreapp2.0\post_order_traversal.csproj.CoreCompileInputs.cache
+C:\Users\shami\source\repos\data-structures\postorder_binary_traversal\post_order_traversal\post_order_traversal\obj\Debug\netcoreapp2.0\post_order_traversal.AssemblyInfoInputs.cache
+C:\Users\shami\source\repos\data-structures\postorder_binary_traversal\post_order_traversal\post_order_traversal\obj\Debug\netcoreapp2.0\post_order_traversal.AssemblyInfo.cs
+C:\Users\shami\source\repos\data-structures\postorder_binary_traversal\post_order_traversal\post_order_traversal\obj\Debug\netcoreapp2.0\post_order_traversal.dll
+C:\Users\shami\source\repos\data-structures\postorder_binary_traversal\post_order_traversal\post_order_traversal\obj\Debug\netcoreapp2.0\post_order_traversal.pdb
