@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace preordered_binary_traversal
+namespace ConsoleApp1
 {
     class Tree
     {
@@ -26,7 +26,7 @@ namespace preordered_binary_traversal
         }
         public void Traverse(Node node)
         {
-            if(node != null)
+            if (node != null)
             {
                 Console.WriteLine(node.Value);
                 Traverse(node.Left);
@@ -56,6 +56,6 @@ namespace preordered_binary_traversal
 
         }
 
-        
+
     }
 }

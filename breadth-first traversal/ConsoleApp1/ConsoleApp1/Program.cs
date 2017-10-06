@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace preordered_binary_traversal
+namespace ConsoleApp1
 {
     class Program
     {
@@ -20,21 +20,11 @@ namespace preordered_binary_traversal
             Console.WriteLine("PREORDER:");
 
             Green.Traverse(Green.Root);
-
-            //Console.WriteLine("INORDER:");
-
-            //Green.Inorder(Green.Root);
-
-            //Console.WriteLine("POSTORDER:");
-
-            //Green.Postorder(Green.Root);
-            //Console.ReadLine();
-
             Console.WriteLine("BREADTH:");
 
             Green.BreadthTraversal(Green.Root);
-            Console.ReadLine();
 
+            Console.ReadLine();
         }
     }
 }

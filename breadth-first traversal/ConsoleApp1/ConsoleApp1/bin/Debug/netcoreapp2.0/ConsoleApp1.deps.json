@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.0": {
-      "post_order_traversal/1.0.0": {
+      "ConsoleApp1/1.0.0": {
         "runtime": {
-          "post_order_traversal.dll": {}
+          "ConsoleApp1.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "post_order_traversal/1.0.0": {
+    "ConsoleApp1/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
