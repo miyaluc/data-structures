@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace post_order_traversal
+namespace ConsoleApp1
 {
     class Tree
     {
@@ -26,17 +26,14 @@ namespace post_order_traversal
         }
         public void Traverse(Node node)
         {
-            if (node.Right != null)
+            if (node != null)
             {
+                Console.WriteLine(node.Value);
+                Traverse(node.Left);
                 Traverse(node.Right);
             }
-            if (node.Left != null)
-            {
-                Traverse(node.Left);
-            }
-            Console.WriteLine(node.Value);
         }
 
-      }
- }
 
+    }
+}

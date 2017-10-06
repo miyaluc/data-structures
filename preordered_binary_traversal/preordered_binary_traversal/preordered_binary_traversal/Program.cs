@@ -17,12 +17,24 @@ namespace preordered_binary_traversal
             Green.Root.Left.Right = new Node(5);
             Green.Root.Right.Left = new Node(6);
 
-            Console.WriteLine($"Leaf: {Green.Root.Value}");
-            Console.WriteLine($"Leaf: {Green.Root.Left.Value}");
-            Console.WriteLine($"Leaf: {Green.Root.Right.Value}");
-            Console.WriteLine($"Leaf: {Green.Root.Left.Left.Value}");
-            Console.WriteLine($"Leaf: {Green.Root.Left.Right.Value}");
-            Console.WriteLine($"Leaf: {Green.Root.Right.Left.Value}");
+            Console.WriteLine("PREORDER:");
+
+            Green.Traverse(Green.Root);
+
+            //Console.WriteLine("INORDER:");
+
+            //Green.Inorder(Green.Root);
+
+            //Console.WriteLine("POSTORDER:");
+
+            //Green.Postorder(Green.Root);
+            //Console.ReadLine();
+
+            Console.WriteLine("BREADTH:");
+
+            Green.BreadthTraversal(Green.Root);
+            Console.ReadLine();
+
         }
     }
 }

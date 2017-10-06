@@ -1,10 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\postorder_binary_traversal",
     "\\stacks_queues",
     "\\strings"
   ],
-  "SelectedNode": "\\postorder_binary_traversal",
+  "SelectedNode": "\\breadth-first traversal",
   "PreviewInSolutionExplorer": false
 }

@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\shami\\source\\repos\\data-structures\\preordered_binary_traversal\\preordered_binary_traversal\\preordered_binary_traversal\\preordered_binary_traversal.csproj",
+      "projectUniqueName": "C:\\Users\\shami\\Source\\Repos\\data-structures\\preordered_binary_traversal\\preordered_binary_traversal\\preordered_binary_traversal\\preordered_binary_traversal.csproj",
       "projectName": "preordered_binary_traversal",
-      "projectPath": "C:\\Users\\shami\\source\\repos\\data-structures\\preordered_binary_traversal\\preordered_binary_traversal\\preordered_binary_traversal\\preordered_binary_traversal.csproj",
+      "projectPath": "C:\\Users\\shami\\Source\\Repos\\data-structures\\preordered_binary_traversal\\preordered_binary_traversal\\preordered_binary_traversal\\preordered_binary_traversal.csproj",
       "packagesPath": "C:\\Users\\shami\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shami\\source\\repos\\data-structures\\preordered_binary_traversal\\preordered_binary_traversal\\preordered_binary_traversal\\obj\\",
+      "outputPath": "C:\\Users\\shami\\Source\\Repos\\data-structures\\preordered_binary_traversal\\preordered_binary_traversal\\preordered_binary_traversal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,4 +1,7 @@
 
+#breadth-first traversal
+We used https://www.cs.bu.edu/teaching/c/tree/breadth-first/ for guidance. I learned today that trees are made up of two child nodes and a head. Imagine that!
+
 #in-order traversal and post-order traversal 10/4
 I had trouble getting my tree to print in a different order. I continue to struggle with these data structure assignments. I understand that we pretty much only have to adjust the position of
 the Console.WriteLine but I can't seem to get this working.

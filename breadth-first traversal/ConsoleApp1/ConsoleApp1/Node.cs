@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace post_order_traversal
+namespace ConsoleApp1
 {
     class Node
     {
