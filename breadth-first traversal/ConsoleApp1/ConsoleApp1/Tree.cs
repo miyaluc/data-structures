@@ -33,6 +33,28 @@ namespace ConsoleApp1
                 Traverse(node.Right);
             }
         }
+        public void BreadthTraversal(Node node)
+        {
+            Queue<Node> lilQ = new Queue<Node>();
+
+            lilQ.Enqueue(node);
+
+            while (lilQ.Count > 0)
+            {
+                Node traverse = lilQ.Dequeue();
+                Console.WriteLine(traverse.Value);
+
+                if (traverse.Left != null)
+                {
+                    lilQ.Enqueue(traverse.Left);
+                }
+                if (traverse.Right != null)
+                {
+                    lilQ.Enqueue(traverse.Right);
+                }
+            }
+
+        }
 
 
     }

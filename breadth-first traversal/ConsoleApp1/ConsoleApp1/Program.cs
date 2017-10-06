@@ -16,6 +16,15 @@ namespace ConsoleApp1
             Green.Root.Left.Left = new Node(4);
             Green.Root.Left.Right = new Node(5);
             Green.Root.Right.Left = new Node(6);
+
+            Console.WriteLine("PREORDER:");
+
+            Green.Traverse(Green.Root);
+            Console.WriteLine("BREADTH:");
+
+            Green.BreadthTraversal(Green.Root);
+
+            Console.ReadLine();
         }
     }
 }
