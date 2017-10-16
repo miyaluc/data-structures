@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\shami\\source\\repos\\data-structures\\Linked_LIsts\\Linked_LIsts\\Linked_LIsts.csproj",
+      "projectUniqueName": "C:\\Users\\shami\\Source\\Repos\\data-structures\\Linked_LIsts\\Linked_LIsts\\Linked_LIsts.csproj",
       "projectName": "Linked_LIsts",
-      "projectPath": "C:\\Users\\shami\\source\\repos\\data-structures\\Linked_LIsts\\Linked_LIsts\\Linked_LIsts.csproj",
+      "projectPath": "C:\\Users\\shami\\Source\\Repos\\data-structures\\Linked_LIsts\\Linked_LIsts\\Linked_LIsts.csproj",
       "packagesPath": "C:\\Users\\shami\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shami\\source\\repos\\data-structures\\Linked_LIsts\\Linked_LIsts\\obj\\",
+      "outputPath": "C:\\Users\\shami\\Source\\Repos\\data-structures\\Linked_LIsts\\Linked_LIsts\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
