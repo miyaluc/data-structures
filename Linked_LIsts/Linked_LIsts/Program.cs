@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Linked_LIsts
+namespace LinkedList
 {
     class Program
     {
@@ -9,13 +9,14 @@ namespace Linked_LIsts
             Console.WriteLine("Hello World!");
 
             LinkedList newList = new LinkedList();
-
+            newList.PrintAllNodes();
             Console.WriteLine("");
 
-            newList.AddAtLast(24);
-            newList.AddAtLast(42);
-            newList.AddAtLast(6);
-            newList.PrintAllNodes();
+            newList.AddAtLast("1stnode");
+            newlist.AddAtLast("2ndnode");
+            newlist.AddAtLast("3rdnode");
+            newlist.AddAtLast("4thnode");
+            newlist.PrintAllNodes();
             Console.WriteLine();
 
             Console.Read();

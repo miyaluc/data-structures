@@ -2,18 +2,13 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Linked_LIsts
+namespace LinkedList
 {
-    //public Node Next
-    //{
-    //    get; set;
-    //}
-
     public class LinkedList
     {
         private Node head;
         private Node current;
-        public int Count;
+        public int Counter;
 
         public LinkedList()
         {
@@ -21,33 +16,35 @@ namespace Linked_LIsts
             current = head;
         }
 
-        public void AddAtLast(object data)
+        public void AddAtLast(Object data)
         {
             Node newNode = new Node();
-            newNode.Data = data;
+            newNode.Value = data;
             current.Next = newNode;
             current = newNode;
-            Count++;
+            Counter++;
         }
-        public void AddAtStart(object data)
+
+        public void AddAtstart(object data)
         {
-            Node newNode = new Node() { Data = data };
+            Node newNode = new Node() { Value = data };
             newNode.Next = head.Next;
             head.Next = newNode;
-            Count++;
+            Counter++;
         }
+
         public void PrintAllNodes()
         {
-            //Traverse from head
-            Console.Write("Head ->->->->");
+            Console.Write("Head ->");
             Node curr = head;
             while (curr.Next != null)
             {
                 curr = curr.Next;
-                Console.WriteLine(curr.Data);
-                Console.WriteLine("");
+                Console.Write(curr.Value);
+                Console.Write("->");
             }
-            Console.Write("->->->->Tail");
+            Console.WriteLine(" end ");
         }
+    
     }
 }

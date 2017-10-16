@@ -2,28 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Linked_LIsts
+namespace LinkedList
 {
-    public class Node
+    class Node
     {
-        public Node Next { get; set}
-        public object Data { get; set; }
+        public Node Next;
+        public object Value;
     }
 }
-//{
-//    public class Node
-//{
-//    public Node Next
-//    {
-//        get; set}
-//    public object Data
-//    {
-//        get; set;
-//    }
-//}
-//public Node(int data)
-//{
-//    Data = data;
-//    Next = null;
-//}
-//}
