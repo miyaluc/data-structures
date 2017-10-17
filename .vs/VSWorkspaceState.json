@@ -1,14 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\binary_trees",
+    "\\binary_trees\\binary_trees",
     "\\breadth-first traversal",
     "\\breadth-first traversal\\ConsoleApp1",
+    "\\inorder_binary_traversal",
+    "\\inorder_binary_traversal\\in_order_traversal",
     "\\Linked_LIsts",
-    "\\Linked_LIsts\\Find_The_Middle",
-    "\\Linked_LIsts\\Linked_LIsts",
-    "\\stacks_queues",
-    "\\strings"
+    "\\preordered_binary_traversal",
+    "\\preordered_binary_traversal\\preordered_binary_traversal"
   ],
-  "SelectedNode": "\\sorted_stack",
+  "SelectedNode": "\\preordered_binary_traversal\\preordered_binary_traversal\\preordered_binary_traversal.sln",
   "PreviewInSolutionExplorer": false
 }
