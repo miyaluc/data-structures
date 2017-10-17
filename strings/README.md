@@ -1,3 +1,5 @@
+#binary-tree-traversal 10/16
+I referred to this site for help: https://www.tutorialspoint.com/data_structures_algorithms/binary_search_tree.htm. I also got assistance from Lynn. I'm not sure that my tree is printing correctly. I don't really understand what I did.
 
 #breadth-first traversal
 We used https://www.cs.bu.edu/teaching/c/tree/breadth-first/ for guidance. I learned today that trees are made up of two child nodes and a head. Imagine that!

@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\shami\\source\\repos\\data-structures\\inorder_binary_traversal\\in_order_traversal\\in_order_traversal\\in_order_traversal.csproj",
+      "projectUniqueName": "C:\\Users\\shami\\Source\\Repos\\data-structures\\inorder_binary_traversal\\in_order_traversal\\in_order_traversal\\in_order_traversal.csproj",
       "projectName": "in_order_traversal",
-      "projectPath": "C:\\Users\\shami\\source\\repos\\data-structures\\inorder_binary_traversal\\in_order_traversal\\in_order_traversal\\in_order_traversal.csproj",
+      "projectPath": "C:\\Users\\shami\\Source\\Repos\\data-structures\\inorder_binary_traversal\\in_order_traversal\\in_order_traversal\\in_order_traversal.csproj",
       "packagesPath": "C:\\Users\\shami\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shami\\source\\repos\\data-structures\\inorder_binary_traversal\\in_order_traversal\\in_order_traversal\\obj\\",
+      "outputPath": "C:\\Users\\shami\\Source\\Repos\\data-structures\\inorder_binary_traversal\\in_order_traversal\\in_order_traversal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
