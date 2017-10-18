@@ -1,3 +1,6 @@
+#min-max-binary-search-tree 10/17
+I referred to this site for help: http://www.geeksforgeeks.org/find-the-minimum-element-in-a-binary-search-tree/. I quickly grasped the idea that minimum would be the same as left-most and maximum would be the same as right-most.
+
 #binary-tree-traversal 10/16
 I referred to this site for help: https://www.tutorialspoint.com/data_structures_algorithms/binary_search_tree.htm. I also got assistance from Lynn. I'm not sure that my tree is printing correctly. I don't really understand what I did.
 
