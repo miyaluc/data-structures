@@ -3,13 +3,13 @@
     "",
     "\\binary search tree",
     "\\binary search tree\\binary_search_tree",
+    "\\binary search tree\\binary_search_tree\\binary_search_tree",
     "\\binary_trees",
     "\\binary_trees\\binary_trees",
     "\\breadth-first traversal",
     "\\breadth-first traversal\\ConsoleApp1",
     "\\inorder_binary_traversal",
-    "\\inorder_binary_traversal\\in_order_traversal",
-    "\\Linked_LIsts"
+    "\\inorder_binary_traversal\\in_order_traversal"
   ],
   "SelectedNode": "\\binary_search_max_min",
   "PreviewInSolutionExplorer": false

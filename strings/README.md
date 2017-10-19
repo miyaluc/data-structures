@@ -1,3 +1,7 @@
+#binary search tree deletion
+We used the geeks for geeks website as a reference. They had an example in Java. 
+I couldn't find any way to use string interpolation to display the number that was deleted.
+
 #min-max-binary-search-tree 10/17
 I referred to this site for help: http://www.geeksforgeeks.org/find-the-minimum-element-in-a-binary-search-tree/. I quickly grasped the idea that minimum would be the same as left-most and maximum would be the same as right-most.
 
