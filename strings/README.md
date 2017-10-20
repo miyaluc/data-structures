@@ -1,3 +1,8 @@
+#array_binary_search_tree
+I found this a worthy challenge and I started by researching arrays to binary search trees. My group drew out a diagram
+as well and I understand a lot more about this data structure now. I could always benefit from additional instruction though.
+We used the geeks for geeks website as a reference.
+
 #binary search tree deletion
 We used the geeks for geeks website as a reference. They had an example in Java. 
 I couldn't find any way to use string interpolation to display the number that was deleted.
