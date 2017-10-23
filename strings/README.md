@@ -1,3 +1,7 @@
+#animal_game 10/20
+-I learned that this game takes a lot of planning and thought. My team started with a diagra of our tree and the the questions that would come next based on the user's answer.
+-We used this website for guidance: http://www.c-sharpcorner.com/uploadfile/4a950c/20-questions-guessing-game-using-binary-trees/
+
 #array_binary_search_tree
 I found this a worthy challenge and I started by researching arrays to binary search trees. My group drew out a diagram
 as well and I understand a lot more about this data structure now. I could always benefit from additional instruction though.
