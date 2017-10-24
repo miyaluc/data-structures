@@ -1,3 +1,7 @@
+#insertion_sorting_of_array
+We looked at the website that was recommended in our class repo.
+George and I worked it ouot without the aid of any notes.
+
 #animal_game 10/20
 -I learned that this game takes a lot of planning and thought. My team started with a diagra of our tree and the the questions that would come next based on the user's answer.
 -We used this website for guidance: http://www.c-sharpcorner.com/uploadfile/4a950c/20-questions-guessing-game-using-binary-trees/
