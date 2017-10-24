@@ -6,39 +6,29 @@ namespace insertion_sort
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            InsertionArraySort watchThis = new InsertionArraySort(new int[] { 12, 36, 3, 42, 81, 69, 27 });
 
-            InsertionSort();
-            Console.ReadLine();
-
-            foreach (int x in arr)
+            Console.WriteLine("Here is your array and it's really out of order. Let's get it sorted!");
+            Console.WriteLine();
+            foreach (int x in watchThis.arr)
             {
-
+                Console.Write($" {x} ");
             }
 
-        }
-        public static int InsertionSort()
-        {
-            int[] arr = new int[] { 12, 36, 3, 42, 81, 69, 27 };
-            Console.WriteLine($"Here is your array and it's really out of order: {arr}. Let's fix it!");
+            Console.WriteLine();
+            Console.WriteLine();
 
-            int i;
-            int k;
-
-            for (i = 0; i < arr.Length-1; i++)
+            Console.WriteLine("Look what we've accomplished with this messy array. That's insertion sorting for you.");
+            Console.WriteLine();
+            foreach(int x in watchThis.InsertionSort())
             {
-                for (k=i+1; k>0; k--)
-                {
-                    if (arr[k] < arr[k-1])
-                    {
-                        int temp = arr[k - 1];
-                        arr[k - 1] = arr[k];
-                        arr[k] = temp;
-                    }
-                }
+                Console.Write($" {x} ");
             }
-            Console.WriteLine($"Look what we've accomplished with this messy array: {arr}. That's insertion sorting for you.");
-            return 0;
+
+            Console.Read();                        
         }
+
     }
+    
 }
+
