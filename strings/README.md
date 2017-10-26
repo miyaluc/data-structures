@@ -1,3 +1,11 @@
+#radix sort 10/25
+the radix sort was espedially difficult to grasp initially. I referred to the website provided provided in the class repo for instruction. First we wrote out the problem, then 
+planned our next steps on the white board.
+
+#merge sort 10/24
+George and I received help in conceptualizing how to attack this problem from Nathan. We referred to https://www.wikiwand.com/en/Merge_sort for visualzation of the 
+problem. Besides that, we worked everything out together.
+
 #insertion_sorting_of_array
 We looked at the website that was recommended in our class repo.
 George and I worked it ouot without the aid of any notes.
