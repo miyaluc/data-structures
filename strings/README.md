@@ -1,3 +1,9 @@
+#associative array 10/31
+I learned that an associative array consists of key-value pairs.
+I felt like there were not a lot of online resources available. THe link provided in the class repo explained what it is but not how to implement.
+I looked at stack overflow: https://stackoverflow.com/questions/27469768/create-a-dictionary-using-array-of-object
+We used the idea of a movie rental company as inspiration. Our key-value pair consisted of a movie rented and the person renting it.
+
 #radix sort 10/25
 the radix sort was espedially difficult to grasp initially. I referred to the website provided provided in the class repo for instruction. First we wrote out the problem, then 
 planned our next steps on the white board.
