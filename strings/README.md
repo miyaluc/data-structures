@@ -1,3 +1,7 @@
+#2D/multdimensional array 11/1
+I learned that you can set up a 2D array by initializing how many spaces are available, separated by a comma.
+I used the resource provided in the class repo. I also got assistance from our new TA, Caleb.
+
 #associative array 10/31
 I learned that an associative array consists of key-value pairs.
 I felt like there were not a lot of online resources available. THe link provided in the class repo explained what it is but not how to implement.
