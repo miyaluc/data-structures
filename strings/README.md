@@ -1,3 +1,7 @@
+#rotating a matrix counter clockwise 11/2
+I learned how this algorithm works by drawing it out in detail on the whiteboard. My teammate and I broke up our 4x4 square into 4 squares of 2x2. We then split up this process one step at a time.
+We used geeks for geeks as a resource. This problem was practically impossible to understand before we drew it out. 
+
 #2D/multdimensional array 11/1
 I learned that you can set up a 2D array by initializing how many spaces are available, separated by a comma.
 I used the resource provided in the class repo. I also got assistance from our new TA, Caleb.
