@@ -1,3 +1,6 @@
+#11/6
+We spent the most of our time on trying to test out this particular algorithm. First we started with a group of three numbers, then four, then five. That alone was a fairly extensive andrew lengthy process. We had to backtrack often in order to optimize our moves. 
+
 #rotating a matrix counter clockwise 11/2
 I learned how this algorithm works by drawing it out in detail on the whiteboard. My teammate and I broke up our 4x4 square into 4 squares of 2x2. We then split up this process one step at a time.
 We used geeks for geeks as a resource. This problem was practically impossible to understand before we drew it out. 
