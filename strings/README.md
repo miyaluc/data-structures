@@ -1,3 +1,7 @@
+#miscellaneous algorithms - adopting cats and dogs 11/7
+I worked with my teammate to figure out a solution that involves two queues. The way the app should work is that once there are cats and dogs added to the adoption center, you can only adopt the one that is at the 
+front of the line by dequeuing. If you specify cat, you get the cat at the front. If dog, you get the dog at the front. If you are not picky, you get the animal that enqueued first.
+
 #rotating a matrix counter clockwise 11/2
 I learned how this algorithm works by drawing it out in detail on the whiteboard. My teammate and I broke up our 4x4 square into 4 squares of 2x2. We then split up this process one step at a time.
 We used geeks for geeks as a resource. This problem was practically impossible to understand before we drew it out. 
