@@ -6,6 +6,9 @@ this challenge. While this became easy to understand in application, it was diff
 I worked with my teammate to figure out a solution that involves two queues. The way the app should work is that once there are cats and dogs added to the adoption center, you can only adopt the one that is at the 
 front of the line by dequeuing. If you specify cat, you get the cat at the front. If dog, you get the dog at the front. If you are not picky, you get the animal that enqueued first.
 
+#hanoi towers 11/6
+We spent the most of our time on trying to test out this particular algorithm. First we started with a group of three numbers, then four, then five. That alone was a fairly extensive andrew lengthy process. We had to backtrack often in order to optimize our moves. 
+
 #rotating a matrix counter clockwise 11/2
 I learned how this algorithm works by drawing it out in detail on the whiteboard. My teammate and I broke up our 4x4 square into 4 squares of 2x2. We then split up this process one step at a time.
 We used geeks for geeks as a resource. This problem was practically impossible to understand before we drew it out. 
