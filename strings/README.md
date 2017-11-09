@@ -1,3 +1,6 @@
+#letter permutations
+Most of our time was spent conceptualizing what this problem demands. We spent a lot of time at the whiteboard. We referred to a few solutions on Stack Overflow but were not successful in implementing
+this challenge. While this became easy to understand in application, it was difficult to figure out how to write a method takes one combination of letters and spits out every other combination available.
 
 #miscellaneous algorithms - adopting cats and dogs 11/7
 I worked with my teammate to figure out a solution that involves two queues. The way the app should work is that once there are cats and dogs added to the adoption center, you can only adopt the one that is at the 
