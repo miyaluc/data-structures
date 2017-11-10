@@ -1,4 +1,8 @@
-#letter permutations
+#Mr. Fibonacci
+We spent a majority of time at the whiteboard drawing out how this sequence works. We hit a bump in the road regarding why it works and had to work with the Fibonacci formula to try to make sense of it.
+After spending that time understanding the challenge, I can safely say I understand the Fibonacci sequence!
+
+#letter permutations 11/8
 Most of our time was spent conceptualizing what this problem demands. We spent a lot of time at the whiteboard. We referred to a few solutions on Stack Overflow but were not successful in implementing
 this challenge. While this became easy to understand in application, it was difficult to figure out how to write a method takes one combination of letters and spits out every other combination available.
 
