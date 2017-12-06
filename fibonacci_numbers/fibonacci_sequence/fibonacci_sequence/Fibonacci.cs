@@ -6,7 +6,7 @@ namespace fibonacci_sequence
 {
     class Fibonacci
     {
-        public static int Fibby(int n)
+        public void Fibby(int n)
         {
             //if n is less than or equal to 1
             if (n <= 1)

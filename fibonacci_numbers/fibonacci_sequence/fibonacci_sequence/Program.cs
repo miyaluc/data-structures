@@ -15,7 +15,7 @@ namespace fibonacci_sequence
 
             for(int i=0; i<fibfab; i++)
             {
-                Console.WriteLine("{0} ", fibonacci_sequence(i));
+                Console.WriteLine("{0} ", Fibby(i));
             }
 
             Console.Read();
