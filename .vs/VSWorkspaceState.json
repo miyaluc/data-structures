@@ -4,13 +4,13 @@
     "\\binary search tree",
     "\\binary search tree\\binary_search_tree",
     "\\binary search tree\\binary_search_tree\\binary_search_tree",
+    "\\binary_search_max_min",
+    "\\binary_search_max_min\\binary_serach_deletion",
     "\\binary_trees",
     "\\binary_trees\\binary_trees",
     "\\breadth-first traversal",
-    "\\breadth-first traversal\\ConsoleApp1",
-    "\\fundamentals",
-    "\\fundamentals\\string_palindrome"
+    "\\breadth-first traversal\\ConsoleApp1"
   ],
-  "SelectedNode": "\\fundamentals\\FibonacciVersions",
+  "SelectedNode": "\\string_to_acronym",
   "PreviewInSolutionExplorer": false
 }

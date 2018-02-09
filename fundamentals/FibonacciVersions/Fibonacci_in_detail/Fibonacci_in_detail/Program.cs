@@ -60,5 +60,22 @@ namespace Fibonacci_in_detail
             }
         }
 
+        //public static void Fibonacci_Switch_Case(int n)
+        //{
+        //    //declare 4 int variables
+        //    //int sum will add x and y
+        //    int x = 0, y = 1, tracker = 1, sum = 0;
+
+        //    int selection = n;
+        //    switch (selection)
+        //    {
+        //        case 1:
+        //            x = 1;
+        //                break;
+
+                        
+
+        //    }
+        //}
     }
 }
