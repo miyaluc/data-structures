@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\shami\\Source\\Repos\\data-structures\\single_node_deletion\\single_node_deletion\\single_node_deletion\\single_node_deletion.csproj",
+      "projectUniqueName": "C:\\Users\\shami\\source\\repos\\data-structures\\single_node_deletion\\single_node_deletion\\single_node_deletion\\single_node_deletion.csproj",
       "projectName": "single_node_deletion",
-      "projectPath": "C:\\Users\\shami\\Source\\Repos\\data-structures\\single_node_deletion\\single_node_deletion\\single_node_deletion\\single_node_deletion.csproj",
+      "projectPath": "C:\\Users\\shami\\source\\repos\\data-structures\\single_node_deletion\\single_node_deletion\\single_node_deletion\\single_node_deletion.csproj",
       "packagesPath": "C:\\Users\\shami\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shami\\Source\\Repos\\data-structures\\single_node_deletion\\single_node_deletion\\single_node_deletion\\obj\\",
+      "outputPath": "C:\\Users\\shami\\source\\repos\\data-structures\\single_node_deletion\\single_node_deletion\\single_node_deletion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -709,7 +709,7 @@
         "dependencies": {
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "2.0.0",
+            "version": "[2.0.0, )",
             "autoReferenced": true
           }
         },
