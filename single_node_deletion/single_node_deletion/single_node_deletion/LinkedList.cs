@@ -60,37 +60,57 @@ namespace single_node_deletion
         }
         public void SinglyDeleteNode(int input)
         {
-            int index = input;
-            int innerCount = 0;
-            //runner
-            Node curr = head;
-            //walker
-            Node curr2 = head;
-            Console.Write("Head ->");
-
-            while (curr.Next != null)
+            Node current = head;
+            //while current next is not equal to null
+            while (current.Next != null)
             {
-                curr = curr.Next;
-                innerCount++;
+                //if current next node is equal to input
+                if (current.Next.Data.Equals(input))
+                {
+                    //current next equals current next next 
+                    current.Next = current.Next.Next;
+                    //Node temp equals current next
+                    Node temp = current.Next;
+                    //temp next equals null
+                    temp.Next = null;
+                    Console.WriteLine($"{input} has been removed");
+                }
+                //current equals current next
+                current = current.Next;
             }
+            //
 
-            //curr2 = curr2.Next;
+            //int index = input;
+            //int innerCount = 0;
+            ////runner
+            //Node curr = head;
+            ////walker
+            //Node curr2 = head;
+            //Console.Write("Head ->");
 
-            //for (int i = 0; i < innerCount - index; i++)
+            //while (curr.Next != null)
             //{
-            //    curr2 = curr2.Next.Next;
+            //    curr = curr.Next;
+            //    innerCount++;
+            //}
+
+            ////curr2 = curr2.Next;
+
+            ////for (int i = 0; i < innerCount - index; i++)
+            ////{
+            ////    curr2 = curr2.Next.Next;
+            ////    Console.WriteLine(curr2.Data);
+            ////    Console.Write("->");
+            ////}
+
+            //for (int i = 0; i < index - 1; i++)
+            //{
+            //    curr2 = curr2.Next;
             //    Console.WriteLine(curr2.Data);
             //    Console.Write("->");
             //}
 
-            for (int i = 0; i < index - 1; i++)
-            {
-                curr2 = curr2.Next;
-                Console.WriteLine(curr2.Data);
-                Console.Write("->");
-            }
-
-            Console.WriteLine("This is the new end.");
+            //Console.WriteLine("This is the new end.");
         }
 
     }

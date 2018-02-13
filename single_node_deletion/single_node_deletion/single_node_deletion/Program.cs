@@ -21,7 +21,7 @@ namespace single_node_deletion
 
             newList.PrintNodes();
             newList.SinglyDeleteNode(4);
-            //newList.PrintNodes();
+            newList.PrintNodes();
             Console.Read();
         }
 
