@@ -22,5 +22,16 @@ namespace binary_search_tree
 
             Console.Read();
         }
+
+        static void Traversal(node current) 
+        {
+            while (current.Next != null) 
+            {
+                Console.WriteLine(current.Value);
+                current = current.Next;
+            }
+            tail = current;
+            Console.WriteLine(tail.Value);
+        }
     }
 }
